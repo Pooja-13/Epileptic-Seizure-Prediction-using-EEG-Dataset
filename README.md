@@ -1,6 +1,9 @@
 # Epileptic-Seizure-Prediction-using-EEG-Dataset
 ## BE Project
 
+Software Required: Jupyter Notebook
+Language Used: Python
+
 In this era, the neurological disease is rapidly increasing worldwide. Also varieties of disease are
 on rise. Increased demands on health care systems due to neurological disease have become a
 major concern. Epileptic seizures occur due to disorder in brain functionality which can affect
